@@ -6,13 +6,13 @@
 
 ### This toolchain installs all the dependensies needed for a React application run.
 
-### first it is imperative to find out which version of Node that has been installed on your machine.
+### First it is imperative to find out which version of Node has been installed on your machine.
 
-### If we running node version 5.2.0 or later we can run npx in the command line for npm to work.
+### If we are running a Node version 5.2.0 or later we can run npx create-react-app "my-app-name" in the command line for npm to work.
 
-### This is done by typing npx create-react-app into the command line.
+### npx create-react-app "my-app"
 
-### Create react app will generate a code with a source folder containing numerous files in it as follows:
+### npx create-react-app will generate a code with a source folder containing numerous files in it as follows:
 
 ### App.css
 
