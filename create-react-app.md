@@ -1,5 +1,3 @@
-# create react app
-
 ## Create React App
 
 ### Allows you to quickly create and run a React application without any configuration.
