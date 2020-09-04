@@ -1,53 +1,51 @@
 # create react app
 
-## concept
-
 ## Create React App
 
-## Allows you to quickly create and run a React application without any configuration.
+### Allows you to quickly create and run a React application without any configuration.
 
-## It creates a frontend build template allowing the user to use any backend of choice.
+### It creates a frontend build template allowing the user to use any backend of choice.
 
-## This toolchain installs all the dependensies needed for a React application run.
+### This toolchain installs all the dependensies needed for a React application run.
 
-## first it is imperative to find out which version of Node that has been installed on your machine.
+### first it is imperative to find out which version of Node that has been installed on your machine.
 
-## If we running node version 5.2.0 or later we can run npx in the command line for npm to work.
+### If we running node version 5.2.0 or later we can run npx in the command line for npm to work.
 
-## This is done by typing npx create-react-app into the command line.
+### This is done by typing npx create-react-app into the command line.
 
-## Create react app will generate a code with a source folder containing numerous files in it as follows:
+### Create react app will generate a code with a source folder containing numerous files in it as follows:
 
-## App.css
+### App.css
 
-## App.js
+### App.js
 
-## App.test.css
+### App.test.css
 
-## Index.css
+### Index.css
 
-## Index.js
+### Index.js
 
-## logo.svg
+### logo.svg
 
-## registerServiceWorker
+### registerServiceWorker
 
-## .gitignore
+### .gitignore
 
-## package.json
+### package.json
 
-## README:md
+### README:md
 
-## Index.js is where the app starts.
+### Index.js is where the app starts.
 
-## This is where the ReactDom render attaches to the root.
+### This is where the ReactDom render attaches to the root.
 
-## App.js file contains the react component
+### App.js file contains the react component
 
-## Package.json contains all the react dependencies
+### Package.json contains all the react dependencies
 
-## npm start will commence a developement server and create a browser instance for the correct url
+### npm start will commence a developement server and create a browser instance for the correct url
 
-## steps
+### steps
 
-## links
+### links
