@@ -1,6 +1,6 @@
 # JSX
 
-### JavaScript XML(JSX) is an Extension to the JavaScript Language syntax.
+### JavaScript XML (JSX), is an Extension to the JavaScript Language syntax.
 
 ### When applying JSX we can write HTML in JavaScript and it converts HTML tags into React elements.
 
