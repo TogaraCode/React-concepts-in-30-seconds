@@ -4,7 +4,7 @@
 
 ### It creates a frontend build template allowing the user to use any backend of choice.
 
-### This toolchain installs all the dependensies needed for a React application run.
+### This toolchain installs all the dependencies needed for a React application run.
 
 ### First it is imperative to find out which version of Node has been installed on your machine.
 
@@ -42,7 +42,7 @@
 
 ### Package.json contains all the react dependencies
 
-### npm start will commence a developement server and create a browser instance for the correct url
+### npm start will commence a development server and create a browser instance for the correct url
 
 ### steps
 
