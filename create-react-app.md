@@ -43,7 +43,3 @@
 ### Package.json contains all the react dependencies
 
 ### npm start will commence a development server and create a browser instance for the correct url
-
-### steps
-
-### links
