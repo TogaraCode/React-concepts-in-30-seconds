@@ -1,4 +1,4 @@
-## Components - Class Components
+## Compostion and Inheritance
 
 ### Concept
 

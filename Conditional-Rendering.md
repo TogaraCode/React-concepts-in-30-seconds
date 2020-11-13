@@ -1,4 +1,4 @@
-## Components - Class Components
+## Conditional Rendering
 
 ### Concept
 

@@ -1,4 +1,4 @@
-## Components - Class Components
+## Component Life Cycle
 
 ### Concept
 

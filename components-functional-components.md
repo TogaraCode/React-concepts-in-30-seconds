@@ -1,7 +1,7 @@
-# components - fun components
+## Components - Functional Components
 
-## concept
+### Concept
 
-## steps
+### Steps
 
-## links
+### Links

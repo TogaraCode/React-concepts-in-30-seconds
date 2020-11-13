@@ -1,4 +1,4 @@
-## Components - Class Components
+## Props vs State
 
 ### Concept
 
