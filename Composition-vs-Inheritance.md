@@ -1,4 +1,4 @@
-## Compostion and Inheritance
+## Compostion vs Inheritance
 
 ### Concept
 
