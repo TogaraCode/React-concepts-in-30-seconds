@@ -2,7 +2,7 @@
 
 React concepts concisely described with working examples. Based on https://roadmap.sh/react
 
-1.  [create react app](Create-React-App.md)
+1.  [create react app](create-react-app.md)
 2.  [JSX](JSX.md)
 3.  [Components - Functional Components](Components-Functional-Components.md)
 4.  [Components - Class Components](Components-Class-Components.md)
