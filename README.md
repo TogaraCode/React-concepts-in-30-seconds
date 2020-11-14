@@ -5,7 +5,7 @@ React concepts concisely described with working examples. Based on https://roadm
 1.  [create react app](create-react-app.md)
 2.  [JSX](JSX.md)
 3.  [Components](Components.md)  
-    3.1. [Functional Components](Components-Functional-Components.md)
+    3.1. [Functional Components](components-functional-components.md)
     3.2. [Class Components](Components-Class-Components.md)
 4.  [Props vs State](Props-vs-State.md)
 5.  [Conditional Rendering](Conditional-Rendering.md)

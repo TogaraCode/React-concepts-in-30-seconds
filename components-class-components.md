@@ -1,4 +1,4 @@
-## Components - Class Components
+## Class Components
 
 ### Concept
 
