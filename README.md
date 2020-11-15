@@ -6,7 +6,7 @@ React concepts concisely described with working examples. Based on https://roadm
 2.  [JSX](JSX.md)
 3.  [Components](Components.md)  
     3.1. [Functional Components](components-functional-components.md)
-    3.2. [Class Components](Components-Class-Components.md)
+    3.2. [Class Components](components-class-components.md)
 4.  [Props vs State](Props-vs-State.md)
 5.  [Conditional Rendering](Conditional-Rendering.md)
 6.  [Component Life Cycle](Component-Life-Cycle.md)
