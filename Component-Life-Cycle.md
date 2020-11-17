@@ -13,3 +13,25 @@
 ### A method is a function that has its own properties/characteristics.
 
 ### React uses methods in the lifecycle called Lifecycle-Methods. 
+
+### Phase 1 - Mounting 
+
+### Mounting is when we insert a component into HTML and XML, also referred to as the DOM.
+
+### React calls four methods in consecutive order when mounting components.It is important to note that although all four Methods are available to us, only one of them called the render() method is mandatory.
+
+### constructor()
+
+### getDerivedStateFromProps()
+
+### render()
+
+### componentDidMount() 
+
+### 1. Constructor()
+
+### The constructor() method is what we use to create the Class and introduce the initial object to the DOM.
+
+### 2. getDerivedStateFromProps() 
+
+### This method is always called before the render() method. It is not recommended because it is very expensive. It checks to see if the state of any props have changed in order to decide what its output will be accordingly. We avoid using this method because it is put to work on every render() to check for a change in state and this is unnecessary when the props have not changed.
