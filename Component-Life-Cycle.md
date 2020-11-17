@@ -10,7 +10,7 @@
 
 ### A method is a function that has its own properties/characteristics.
 
-### React uses methods in the lifecycle called Lifecycle-Methods. 
+### React uses methods in the lifecycle called Lifecycle Methods. 
 
 ### Phase 1 - Mounting 
 
