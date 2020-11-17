@@ -12,7 +12,7 @@
 
 ### React uses methods in the lifecycle called Lifecycle Methods. 
 
-### Phase 1 - Mounting 
+## Phase 1 - Mounting 
 
 ### Mounting is when we insert a component into HTML and XML, also referred to as the DOM.
 
