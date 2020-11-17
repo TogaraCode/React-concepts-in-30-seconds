@@ -26,7 +26,7 @@
 
 ### 4.componentDidMount() 
 
-## 1. Constructor()
+## 1. constructor()
 
 ### The constructor() method is what we use to create the Class and introduce the initial object to the DOM.
 
