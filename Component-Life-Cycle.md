@@ -20,13 +20,13 @@
 
 ### React calls four methods in consecutive order when mounting components.It is important to note that although all four Methods are available to us, only one of them called the render() method is mandatory.
 
-### constructor()
+### 1.constructor()
 
-### getDerivedStateFromProps()
+### 2.getDerivedStateFromProps()
 
-### render()
+### 3.render()
 
-### componentDidMount() 
+### 4.componentDidMount() 
 
 ### 1. Constructor()
 
