@@ -37,3 +37,7 @@
 ## 3. render()
 
 ### This is the only mandatory method that needs to be called in a components life cycle.What the render() method does is it takes the data from props and state and returns it into the Dom.
+
+## 4.componentDidMount()
+
+### This method comes after the first render() and allows us to apply any changes to the initial state. Javascript logic is used to change the state before replacing the result back  into the Dom.
