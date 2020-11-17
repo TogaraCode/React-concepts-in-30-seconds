@@ -1,7 +1,5 @@
 ## Component Life Cycle
 
-###
-
 ### Every component has a life cycle that is divided into three phases.
 
 ### The first is the creation phase, called Mounting. 
@@ -20,18 +18,22 @@
 
 ### React calls four methods in consecutive order when mounting components.It is important to note that although all four Methods are available to us, only one of them called the render() method is mandatory.
 
-### 1.constructor()
+## 1.constructor()
 
-### 2.getDerivedStateFromProps()
+## 2.getDerivedStateFromProps()
 
-### 3.render()
+## 3.render()
 
-### 4.componentDidMount() 
+## 4.componentDidMount() 
 
-### 1. Constructor()
+## 1. Constructor()
 
 ### The constructor() method is what we use to create the Class and introduce the initial object to the DOM.
 
-### 2. getDerivedStateFromProps() 
+## 2. getDerivedStateFromProps() 
 
 ### This method is always called before the render() method. It is not recommended because it is very expensive. It checks to see if the state of any props have changed in order to decide what its output will be accordingly. We avoid using this method because it is put to work on every render() to check for a change in state and this is unnecessary when the props have not changed.
+
+## 3. render()
+
+### This is the only mandatory method that needs to be called in a components life cycle.What the render() method does is it takes the data from props and state and returns it into the Dom.
