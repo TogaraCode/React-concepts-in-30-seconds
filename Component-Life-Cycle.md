@@ -65,3 +65,13 @@
 ## 2.2. shouldComponentUpdate()
 
 ### This method is used to avoid unnecessary rendering() when props have not changed. If there are no updates in data then this method will recognize this and stop further rendering(). In other words, if the state of all the properties stay the same then this method will notice this by using Javascript true or false statements and if it is true that all the data stays the same then this method will disallow any further rendering.
+
+## 2.3 render()
+
+### This is the only mandatory method that needs to be called in a components life cycle.What the render() method does is it takes the data from props and state and returns it into the Dom.
+
+## 2.4 getSnapshotBeforeUpdate()
+
+### getSnapshotBeforeUpdate()
+
+### What this method does is it looks at the previous render() and checks if any changes or updates were made in the DOM.If any changes were made in the DOM then this method captures those changes and stores it as a value called snapshot, to be used in the next step in updating the component.
