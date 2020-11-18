@@ -2,7 +2,7 @@
 
 ### Every component has a life cycle that is divided into three phases.
 
-### 1.The first is the creation phase, called Mounting. 
+### 1.The first is the creation phase called Mounting. 
 
 ### 2.The second phase is called Updating.
 
