@@ -2,11 +2,11 @@
 
 ### Every component has a life cycle that is divided into three phases.
 
-### The first is the creation phase, called Mounting. 
+### 1.The first is the creation phase, called Mounting. 
 
-### The second phase is called Updating.
+### 2.The second phase is called Updating.
 
-### The third and last is the deletion phase called Unmounting.
+### 3.The third and last is the deletion phase called Unmounting.
 
 ### A method is a function that has its own properties/characteristics.
 
@@ -77,3 +77,7 @@
 ## 2.5. componentDidUpdate()
 
 ### This is the final step in updating a component. What this method does is it takes all the updates and changes made and replaces the old values with the new changes in the DOM.
+
+## 3.1 componentWillUnmount()
+
+### This phase is used to delete/remove the object from the Dom.
