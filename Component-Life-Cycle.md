@@ -41,3 +41,27 @@
 ## 4.componentDidMount()
 
 ### This method comes after the first render() and allows us to apply any changes to the initial state. Javascript logic is used to change the state before replacing the result back  into the Dom.
+
+## Phase 2. Updating
+
+### This phase comes into play when changes or updates are made to the initial state of the component.
+
+### React calls five methods in consecutive order when updating components. It is important to note that although all four Methods are available to us, only one of them called the render() method is mandatory.
+
+### 2.1.static getDerivedStateFromProps()
+
+### 2.2.shouldComponentUpdate()
+
+### 2.3.render()
+
+### 2.4.getSnapshotBeforeUpdate()
+
+### 2.5.componentDidUpdate()
+
+## 2.1. static getDerivedStateFromProps()
+
+### This method is used before every render() including the initial mounting. What this method does is it looks for any change in data resulting in a state being updated and it returns the updated state. 
+
+## 2.2. shouldComponentUpdate()
+
+### This method is used to avoid unnecessary rendering() when props have not changed. If there are no updates in data then this method will recognize this and stop further rendering(). In other words, if the state of all the properties stay the same then this method will notice this by using Javascript true or false statements and if it is true that all the data stays the same then this method will disallow any further rendering.
