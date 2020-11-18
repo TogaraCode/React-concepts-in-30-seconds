@@ -73,3 +73,7 @@
 ## 2.4 getSnapshotBeforeUpdate()
 
 ### What this method does is it looks at the previous render() and checks if any changes or updates were made in the DOM.If any changes were made in the DOM then this method captures those changes and stores it as a value called snapshot, to be used in the next step in updating the component.
+
+## 2.5. componentDidUpdate()
+
+### This is the final step in updating a component. What this method does is it takes all the updates and changes made and replaces the old values with the new changes in the DOM.
