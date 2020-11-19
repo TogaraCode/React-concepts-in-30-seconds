@@ -6,4 +6,4 @@
 
 ## Keys
 
-### A Key is used to target and label an item in a list by giving it an ID.
+###  A Key is used to target and label an item in a list by giving it an ID.We also use keys to monitor changes in specific items in lists.
