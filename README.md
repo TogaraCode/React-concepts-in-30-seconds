@@ -11,6 +11,6 @@ React concepts concisely described with working examples. Based on https://roadm
 5.  [Conditional Rendering](Conditional-Rendering.md)
 6.  [Component Life Cycle](Component-Life-Cycle.md)
 7.  [Lists and Keys](Lists-and-Keys.md)
-8.  [compostion Vs inheritance](compostion-vs-inheritance.md)
+8.  [Compostion Vs Inheritance](Compostion-vs-Inheritance.md)
 9.  [Basic Hooks - Use State](Basic-Hooks-Use-State.md)
 10. [Basic Hooks Use Effect](Basic-Hooks-Use-Effect.md)
