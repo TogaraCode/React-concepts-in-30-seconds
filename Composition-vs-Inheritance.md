@@ -6,6 +6,4 @@
 
 ## Inheritance
 
-### Inheritance 
-
-## This pattern makes use of Child Components that take on the properties of Parent Components.This style of writing code is not recommended because React has a Component-based structure and Composition is more suitable in this type of environment.  
+### This pattern makes use of Child Components that take on the properties of Parent Components.This style of writing code is not recommended because React has a Component-based structure and Composition is more suitable in this type of environment.  
