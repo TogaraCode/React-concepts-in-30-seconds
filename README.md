@@ -1,8 +1,7 @@
-# react-concepts-in-30-seconds
+# react-concepts-in-30-seconds by Togara Hess
 
 React concepts described in 30 seconds.
 Click on the Chapterts in blue bellow.
-React Concepts - by Togara Hess
 
 1.  [create-react-app](create-react-app.md)
 2.  [JSX](JSX.md)
