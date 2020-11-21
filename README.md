@@ -12,5 +12,6 @@ React concepts concisely described with working examples. Based on https://roadm
 6.  [Component Life Cycle](Component-Life-Cycle.md)
 7.  [Lists and Keys](Lists-and-Keys.md)
 8.  [Composition-vs-Inheritance](Composition-vs-Inheritance.md)
-9.  [Basic Hooks - Use State](Basic-Hooks-Use-State.md)
-10. [Basic Hooks Use Effect](Basic-Hooks-Use-Effect.md)
+9.  [Basic-Hooks](Basic-Hooks.md)
+10. [Basic Hooks - Use State](Basic-Hooks-Use-State.md)
+11. [Basic Hooks Use Effect](Basic-Hooks-Use-Effect.md)
