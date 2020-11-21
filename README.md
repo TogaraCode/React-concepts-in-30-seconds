@@ -1,6 +1,6 @@
 # react-concepts-in-30-seconds
 
-React concepts described in 30.
+React concepts described in 30 seconds.
 Click on the Chapterts in blue bellow.
 React Concepts - by Togara Hess
 
