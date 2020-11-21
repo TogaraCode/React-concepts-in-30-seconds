@@ -1,6 +1,8 @@
 # react-concepts-in-30-seconds
 
-React concepts concisely described with working examples. Based on https://roadmap.sh/react
+React concepts concisely described with working examples.
+Click on the Chapterts in blue bellow.
+React Concepts - by Togara Hess
 
 1.  [create react app](create-react-app.md)
 2.  [JSX](JSX.md)
