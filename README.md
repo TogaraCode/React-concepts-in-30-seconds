@@ -19,7 +19,7 @@ React Concepts - by Togara Hess
     9.1 [ Use-State](Basic-Hooks-Use-State.md)
     9.2 [Use-Effect](Basic-Hooks-Use-Effect.md)
 
-10. [Writing-your-own-Hooks](Wriring-your-own-Hooks.md)
+10. [Writing-your-own-Hooks](Writing-your-own-Hooks.md)
 11. [Common-Hooks](Common-Hooks.md)
 12. [useCallback](useCallback.md)
 13. [useRef](useRef.md)
