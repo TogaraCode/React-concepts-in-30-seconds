@@ -1,4 +1,4 @@
-# react-concepts-in-30-seconds by Togara Hess
+# React Concepts in 30 seconds by Togara Hess
 
 React concepts described in 30 seconds.
 Click on the Chapters in blue bellow.
