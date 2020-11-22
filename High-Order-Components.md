@@ -1,3 +1,0 @@
-### Higher Order Components
-
-## Content
