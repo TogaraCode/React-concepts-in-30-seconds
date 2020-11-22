@@ -37,7 +37,7 @@ Click on the Chapters in blue bellow.
 22. [Error-Boundries](Error-Boundries.md)
 23. [Fiber-Achitecture](Fiber-Achitecture.md)
 
-## React Ecosystem
+## Ecosystem
 
 24. [Routers](Routers.md)
 25. [React-Router](React-Router.md)
