@@ -28,7 +28,7 @@ Click on the Chapters in blue bellow.
 17. [Refs](Refs.md)
 18. [Render-Props](Render-Props.md)
 19. [Code-Splitting](Code-Splitting.md)
-20. [Higher-Order-Components](Higher-Order-Components.md)
+20. [High-Order-Components](High-Order-Components.md)
 21. [Portals](Portals.md)
 22. [Error-Boundries](Error-Boundries.md)
 23. [Fiber-Achitecture](Fiber-Achitecture.md)
