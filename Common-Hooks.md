@@ -1,3 +1,0 @@
-## Common Hooks
-
-### Content
