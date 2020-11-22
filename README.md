@@ -32,7 +32,3 @@ Click on the Chapters in blue bellow.
 21. [Portals](Portals.md)
 22. [Error-Boundries](Error-Boundries.md)
 23. [Fiber-Achitecture](Fiber-Achitecture.md)
-24. []()
-25. []()
-26. []()
-27. []()
