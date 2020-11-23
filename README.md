@@ -27,6 +27,7 @@ Click on the Chapters in blue bellow.
 9.  [Basic-Hooks](Basic-Hooks.md)
 
     9.1 [ Use-State](Basic-Hooks-Use-State.md)
+
     9.2 [Use-Effect](Basic-Hooks-Use-Effect.md)
 
 ## Advanced Concepts
