@@ -1,3 +1,3 @@
 ## Next.js
 
-### This Node.js Routing API uses Link components to create paths between pages to share objects. It stores the components in files and allows us to use them on our pages.
+### This Framework is both for SSR and SSG.  It is a powerful API because it allows us to use code splitting and budling to increase the speed of the website by prioritizing the download order or components on the browser. It is also great for Google SEO because of the quick initial download speed. 
