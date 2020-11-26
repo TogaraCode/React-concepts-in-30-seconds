@@ -68,11 +68,11 @@ Click on the Chapters in blue bellow.
 
 26. [SSR](SSR.md)
 
-27. [Net.js](Net.js.md)
+27. [SSG](SSG.md)
 
-28. [Gatsby](Gatsby.md)
+28. [Net.js](Net.js.md)
 
-29. [SSG](SSG.md)
+29. [Gatsby](Gatsby.md)
 
 30. [API-Calls](API-Calls.md)
 
