@@ -70,7 +70,7 @@ Click on the Chapters in blue bellow.
 
 27. [SSG](SSG.md)
 
-28. [Net.js](Net.js.md)
+28. [Next.js](Next.js.md)
 
 29. [Gatsby](Gatsby.md)
 
