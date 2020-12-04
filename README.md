@@ -1,4 +1,4 @@
-# React Concepts in 30 seconds explained and simplified by Togara Hess
+# React Concepts in 30 seconds by Togara Hess
 
 React concepts explained in 30 seconds.
 Click on the Chapters in blue bellow.
