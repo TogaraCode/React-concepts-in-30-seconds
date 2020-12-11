@@ -89,3 +89,39 @@ Click on the Chapters in blue bellow.
 36. [use-Http](use-Http.md)
 
 37. [React-Native](React-Native.md)
+
+38. [Forms](Forms.md)
+
+39. [Final-Form](Final-Form.md)
+
+40. [Formatik](Formatik.md)
+
+41. [Testing](Testing.md)
+
+42. [Jest](Jest.md)
+
+43. [React-Testing-Library](React-Testing-Library.md)
+
+44. [Cypress](Cypress.md)
+
+45. [State-Management](State-Management.md)
+
+46. [Context/State](Context/State.md)
+
+47. [Redux](Redux.md)
+
+48. [MobX](MobX.md)
+
+49. [Styling](Styling.md)
+
+50. [Chaka-UI](Chaka-UI.md)
+
+51. [Material-UI](Material-UI.md)
+
+52. [Ant-Design](Ant-Design.md)
+
+53. [Styled-Component](Styled-Component.md)
+
+54. [Emotion](Emotion.md)
+
+# THE END
