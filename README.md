@@ -88,6 +88,4 @@ Click on the Chapters in blue bellow.
 
 36. [use-Http](use-Http.md)
 
-37. [Mobile](Mobile.md)
-
-38. [React-Native](React-Native.md)
+37. [React-Native](React-Native.md)
