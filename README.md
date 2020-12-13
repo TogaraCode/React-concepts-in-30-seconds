@@ -11,8 +11,9 @@ Click on the Chapters in blue bellow.
 
 3.  [Components](Components.md)
 
-    3.1. [Functional-Components](components-functional-components.md)
-    3.2. [Class-Components](components-class-components.md)
+    3.1 [Functional-Components](components-functional-components.md)
+
+    3.2 [Class-Components](components-class-components.md)
 
 4.  [Props-vs-State](Props-vs-State.md)
 
@@ -26,7 +27,7 @@ Click on the Chapters in blue bellow.
 
 9.  [Basic-Hooks](Basic-Hooks.md)
 
-    9.1 [ Use-State](Basic-Hooks-Use-State.md)
+    9.1 [Use-State](Basic-Hooks-Use-State.md)
 
     9.2 [Use-Effect](Basic-Hooks-Use-Effect.md)
 
