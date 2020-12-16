@@ -93,6 +93,8 @@ Click on the Chapters in blue bellow.
 
 38. [Forms](Forms.md)
 
+    38.1 [React-Hook-Form](React-Hook-Form.md)
+
 39. [Final-Form](Final-Form.md)
 
 40. [Formatik](Formatik.md)
