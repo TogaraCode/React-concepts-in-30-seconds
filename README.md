@@ -97,7 +97,7 @@ Click on the Chapters in blue bellow.
 
 39. [Final-Form](Final-Form.md)
 
-40. [Formatik](Formatik.md)
+40. [Formik](Formik.md)
 
 41. [Testing](Testing.md)
 
