@@ -1,0 +1,3 @@
+## State Management Systems
+
+### This is one of the most difficult concepts in Computer Science simply because it deals with the management of all the changing parts in an App. React provides us with a build-in State Management System but when our Apps get more intricate with components that get updated frequently then it makes sense to use additional State Management API's which we will get into later on. What we are talking about when it comes to State Management is how to efficiently update the screen according to changes that have occurred in the App for example how calculators frequently change the numbers that are displayed on the screen.
