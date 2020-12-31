@@ -109,22 +109,20 @@ Click on the Chapters in blue bellow.
 
 45. [State-Management](State-Management.md)
 
-46. [Context-State](Context-State.md)
+46. [Redux](Redux.md)
 
-47. [Redux](Redux.md)
+47. [MobX](MobX.md)
 
-48. [MobX](MobX.md)
+48. [Styling](Styling.md)
 
-49. [Styling](Styling.md)
+49. [Chaka-UI](Chaka-UI.md)
 
-50. [Chaka-UI](Chaka-UI.md)
+50. [Material-UI](Material-UI.md)
 
-51. [Material-UI](Material-UI.md)
+51. [Ant-Design](Ant-Design.md)
 
-52. [Ant-Design](Ant-Design.md)
+52. [Styled-Component](Styled-Component.md)
 
-53. [Styled-Component](Styled-Component.md)
-
-54. [Emotion](Emotion.md)
+53. [Emotion](Emotion.md)
 
 # THE END ...... for Now !!
