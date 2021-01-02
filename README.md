@@ -115,7 +115,7 @@ Click on the Chapters in blue bellow.
 
 48. [Styling](Styling.md)
 
-49. [Chaka-UI](Chaka-UI.md)
+49. [Chakra-UI](Chakra-UI.md)
 
 50. [Material-UI](Material-UI.md)
 
