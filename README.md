@@ -121,7 +121,7 @@ Click on the Chapters in blue bellow.
 
 51. [Ant-Design](Ant-Design.md)
 
-52. [Styled-Component](Styled-Component.md)
+52. [Styled-Components](Styled-Components.md)
 
 53. [Emotion](Emotion.md)
 
