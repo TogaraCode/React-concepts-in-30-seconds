@@ -7,7 +7,7 @@
 ```
 class TextBook extends React.Component {
   render() {
-    return <h2>Hello Humanoid!</h2>;
+    return <h1>Hello Humanoid!</h1>;
   }
 }
 
