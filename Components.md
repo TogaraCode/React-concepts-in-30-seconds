@@ -8,7 +8,7 @@
 
 #### &nbsp;&nbsp;`render() {`
 
-#### &nbsp;&nbsp;&nbsp;` return <h2>React Components in 30 Seconds!</h2>;`
+#### &nbsp;&nbsp;&nbsp;` return <h2>Hello World!</h2>;`
 
 #### &nbsp;&nbsp;` }`
 
