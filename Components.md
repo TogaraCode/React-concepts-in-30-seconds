@@ -8,11 +8,13 @@
 
 #### `render() {`
 
-#### ` return <h2>Lets Learn React Components in 30 Seconds!</h2>;`
+#### ` return <h2>React Components in 30 Seconds!</h2>;`
 
 #### ` }`
 
-#### `} `
+#### `}`
+
+##
 
 ##
 
