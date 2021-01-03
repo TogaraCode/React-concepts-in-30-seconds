@@ -6,11 +6,11 @@
 
 ` class textBook extends React.Component {`
 
-`{}{} render() {`
+` render() {`
 
-`{}{}{} return <h1>Hello Human!</h1>;`
+` return <h1>Hello Human!</h1>;`
 
-`{}{} }`
+` }`
 
 `}`
 
