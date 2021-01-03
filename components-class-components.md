@@ -5,6 +5,9 @@
 ## Example
 
 ```
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 class TextBook extends React.Component {
   render() {
     return <h1>Hello Humanoid!</h1>;
