@@ -8,10 +8,14 @@
 
 #### &nbsp;&nbsp;`render() {`
 
-#### &nbsp;&nbsp;&nbsp;` return <h2>Hello World!</h2>;`
+#### &nbsp;&nbsp;&nbsp;` return <h1>Hello Human!</h1>;`
 
 #### &nbsp;&nbsp;` }`
 
 #### `}`
 
 #### `ReactDOM.render(<Car />, document.getElementById('root'));`
+
+## Screen View
+
+### Hello Human !
