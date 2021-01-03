@@ -4,7 +4,7 @@
 
 ## Installation
 
-### npx create-react-app "my-app-name"
+`npx create-react-app "my-app-name"`
 
 ## Example
 
