@@ -6,15 +6,15 @@
 
 ` class textBook extends React.Component {`
 
-`&#x2002;render() {`
+` render() {`
 
-#### &nbsp;&nbsp;&nbsp;` return <h1>Hello Human!</h1>;`
+` return <h1>Hello Human!</h1>;`
 
-#### &nbsp;&nbsp;` }`
+` }`
 
-#### `}`
+`}`
 
-#### `ReactDOM.render(<Car />, document.getElementById('root'));`
+`ReactDOM.render(<Car />, document.getElementById('root'));`
 
 ## Screen View
 
