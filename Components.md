@@ -4,25 +4,15 @@
 
 ## Example
 
-` class textBook extends React.Component {`
+```class TextBook extends React.Component {
+  render() {
+    return <h2>Hello Humanoid!</h2>;
+  }
+}
 
-` render() {`
-
-` return <h1>Hello Human!</h1>;`
-
-` }`
-
-`}`
-
-`ReactDOM.render(<Car />, document.getElementById('root'));`
+ReactDOM.render(<TextBook />, document.getElementById('root'));
+```
 
 ## Screen View
 
-### Hello Human !
-
-```class Greeting extends React.Component {
-  render() {
-    return <h2>Hello Human!</h2>;
-  }
-}
-```
+### Hello Humanoid !
