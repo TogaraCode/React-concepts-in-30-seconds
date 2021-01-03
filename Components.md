@@ -4,7 +4,8 @@
 
 ## Example
 
-```class TextBook extends React.Component {
+```
+class TextBook extends React.Component {
   render() {
     return <h2>Hello Humanoid!</h2>;
   }
