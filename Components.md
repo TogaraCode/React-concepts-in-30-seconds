@@ -6,16 +6,12 @@
 
 #### ` class textBook extends React.Component {`
 
-#### `render() {`
+#### &nbsp;&nbsp;`render() {`
 
-#### ` return <h2>React Components in 30 Seconds!</h2>;`
+#### &nbsp;&nbsp;&nbsp;` return <h2>React Components in 30 Seconds!</h2>;`
 
 #### &nbsp;&nbsp;` }`
 
 #### `}`
-
-##
-
-##
 
 #### `ReactDOM.render(<Car />, document.getElementById('root'));`
