@@ -10,7 +10,7 @@
 
 #### ` return <h2>React Components in 30 Seconds!</h2>;`
 
-#### ` }`
+#### &nbsp;` }`
 
 #### `}`
 
