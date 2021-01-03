@@ -4,9 +4,9 @@
 
 ## Example
 
-#### ` class textBook extends React.Component {`
+` class textBook extends React.Component {`
 
-#### &nbsp;&nbsp;`render() {`
+`&nbsp;&nbsp;render() {`
 
 #### &nbsp;&nbsp;&nbsp;` return <h1>Hello Human!</h1>;`
 
