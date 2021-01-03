@@ -4,16 +4,16 @@
 
 ## Example
 
-### ` class textBook extends React.Component {`
+#### ` class textBook extends React.Component {`
 
-### `render() {`
+#### `render() {`
 
-### ` return <h2>Lets Learn React Components in 30 Seconds!</h2>;`
+#### ` return <h2>Lets Learn React Components in 30 Seconds!</h2>;`
 
-### ` }`
+#### ` }`
 
-### `} `
+#### `} `
 
 ##
 
-### `ReactDOM.render(<Car />, document.getElementById('root'));`
+#### `ReactDOM.render(<Car />, document.getElementById('root'));`
