@@ -8,6 +8,8 @@
 
 ## Example
 
-` const myelement = <h1>React Concepts in 30 Seconds</h1>;`
+`const myelement = <h1>React Concepts in {15 + 15} Seconds!</h1>;`
 
-`ReactDOM.render(myelement, document.getElementById('root'));`
+## Screen View
+
+### React Concepts in 30 Seconds!
