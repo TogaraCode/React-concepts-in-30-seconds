@@ -6,7 +6,7 @@
 
 ` class textBook extends React.Component {`
 
-`&nbsp;&nbsp;render() {`
+`&#x2002;render() {`
 
 #### &nbsp;&nbsp;&nbsp;` return <h1>Hello Human!</h1>;`
 
