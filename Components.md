@@ -5,9 +5,23 @@
 ## Example
 
 ` class textBook extends React.Component {`
+
+#
+
 `render() {`
+
+#
+
 ` return <h2>Lets Learn React Components in 30 Seconds!</h2>;`
+
+#
+
 ` }`
+
+#
+
 `} `
+
+#
 
 `ReactDOM.render(<Car />, document.getElementById('root'));`
