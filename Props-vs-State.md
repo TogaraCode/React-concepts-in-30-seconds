@@ -16,7 +16,7 @@ import ReactDOM from 'react-dom';
 
 class Textbook extends React.Component {
   render() {
-    return <h1>This Computer Science Textbook is about {this.props.topic}!</h1>
+    return <h1>This Computer Science Textbook teaches {this.props.topic}!</h1>
   }
 }
 
