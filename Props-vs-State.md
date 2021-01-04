@@ -70,4 +70,4 @@ ReactDOM.render(<Car />, document.getElementById('root'));
 
 # This textbook teaches React concepts in 30 seconds
 
-## Volume # 1 written by Togara Hess published in 2021
+## Volume #1 written by Togara Hess published in 2021
