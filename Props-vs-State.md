@@ -20,7 +20,7 @@ class Textbook extends React.Component {
   }
 }
 
-const myelement = <Textbook topic="React concepts" />;
+const myelement = <Textbook topic="React concepts in 30 seconds" />;
 
 ReactDOM.render(myelement, document.getElementById('root'));
 ```
@@ -48,4 +48,4 @@ index.html
 
 ## Screen View
 
-# This Computer Science textbook teaches React Concepts
+# This Computer Science textbook teaches React Concepts in 30 Seconds
