@@ -25,27 +25,49 @@ const myelement = <Textbook topic="React concepts in 30 seconds" />;
 ReactDOM.render(myelement, document.getElementById('root'));
 ```
 
+## Screen View
+
+# This Computer Science textbook teaches React Concepts in 30 Seconds
+
+## State Example
+
 ```
-index.html
+index.js
 ```
 
 ```
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport"
-      content="width=device-width, initial-scale=1" />
-    <title>React App</title>
-  </head>
-  <body>
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-    <div id="root"></div>
+class Textbook extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      topic: "React concepts in 30 seconds",
+      volume: "1",
+      Author: "Togara Hess",
+      year: 2021
+    };
+  }
+  render() {
+    return (
+      <div>
+        <h1>This textbook teaches {this.state.topic}</h1>
+        <p>
+          Volume # {this.state.volume}
+          written by {this.state.Author}
+          published in {this.state.year}.
+        </p>
+      </div>
+    );
+  }
+}
 
-  </body>
-</html>
+ReactDOM.render(<Car />, document.getElementById('root'));
 ```
 
 ## Screen View
 
-# This Computer Science textbook teaches React Concepts in 30 Seconds
+# This textbook teaches React concepts in 30 seconds
+
+## Volume # 1 written by Togara Hess published in 2021
