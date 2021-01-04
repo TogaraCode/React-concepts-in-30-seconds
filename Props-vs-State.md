@@ -16,7 +16,7 @@ import ReactDOM from 'react-dom';
 
 class Textbook extends React.Component {
   render() {
-    return <h1>This Computer Science Textbook teaches {this.props.topic}!</h1>
+    return <h1>This textbook teaches {this.props.topic}!</h1>
   }
 }
 
@@ -27,7 +27,7 @@ ReactDOM.render(myelement, document.getElementById('root'));
 
 ## Screen View
 
-# This Computer Science textbook teaches React Concepts in 30 Seconds
+# This textbook teaches React Concepts in 30 Seconds
 
 ## State Example
 
