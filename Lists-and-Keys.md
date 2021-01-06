@@ -28,7 +28,7 @@ function ExampleList(props) {
 }
 const exampleList = ['Togara', '12', 'Aiyara', 'Lion', '500g'];
 ReactDOM.render(
-  <NameList myLists={myLists} />,
+  <ExampleList exampleList={exampleList} />,
   document.getElementById('root')
 );
 ```
