@@ -57,12 +57,6 @@ index.js
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-function ExampleItem(props) {
-  const item = props.item;
-  return (
-    <li> {item} </li>
-  );
-}
 function ExampleList(props) {
   const exampleList = props.exampleList;
   const exampleItems = exampleList.map((strList) =>
