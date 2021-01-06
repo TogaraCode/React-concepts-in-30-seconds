@@ -7,3 +7,34 @@
 ## Keys
 
 ###  A Key is used to target and label an item in a list by giving it an ID. We also use keys to monitor changes in specific items in lists.
+
+## List Example
+
+```
+index.js
+```
+
+```
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+const exampleList = ['Mohamed ', 'Togara', 'Jake', '$12,00', 'Alice'];
+const listItems = exampleList.map((exampleList)=>{
+    return <li>{exampleList}</li>;
+});
+
+ReactDOM.render(
+    <ul> {listItems} </ul>,
+    document.getElementById('root')
+);
+```
+
+## View on Screen
+
+```
+* Mohamed
+* Togara
+* Jake
+* $12,00
+* Alice
+```
