@@ -36,11 +36,11 @@ ReactDOM.render(
 ## View on Screen
 
 ```
-1 Togara
-2 12
-3 Aiyara
-4 Lion
-5 500g
+1. Togara
+2. 12
+3. Aiyara
+4. Lion
+5. 500g
 ```
 
 ## Keys
@@ -87,12 +87,10 @@ ReactDOM.render(
 
 # This is an Example of Keys
 
-### 1. Togara
-
-### 2. Mandela
-
-### 3. 12
-
-### 4. Orange
-
-### 5. 500g
+```
+ 1. Togara
+ 2. Mandela
+ 3. 12
+ 4. Orange
+ 5. 500g
+```
