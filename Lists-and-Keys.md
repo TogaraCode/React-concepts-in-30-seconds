@@ -45,4 +45,54 @@ ReactDOM.render(
 
 ## Keys
 
-###  A Key is used to target and label an item in a list by giving it an ID. We also use keys to monitor changes in specific items in lists.
+###  A Key is used to target and label an item in a list by giving it an ID. We also use keys to monitor changes in specific items in lists. An easy way to remember how we use Keys in React is the same way we use keys to unlock doors. Using this analagy we can imagine that a key only works for a specific lock.
+
+## Key Example
+
+```
+index.js
+```
+
+```
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+function ExampleItem(props) {
+  const item = props.item;
+  return (
+    <li> {item} </li>
+  );
+}
+function ExampleList(props) {
+  const exampleList = props.exampleList;
+  const exampleItems = exampleList.map((strList) =>
+    <ExampleItem key={exampleList.toString()} item={strList} />
+  );
+  return (
+    <div>
+        <h1>This is an Example of Keys</h1>
+            <ol>{exampleItems}</ol>
+    </div>
+  );
+}
+const exampleList = ['Togara', 'Mandela', '12', 'Orange', '500g'];
+ReactDOM.render(
+  <ExampleList exampleList={exampleList}/>,
+  document.getElementById('root')
+);
+
+```
+
+## View on Screen
+
+# This is an Example of Keys
+
+### 1. Togara
+
+### 2. Mandela
+
+### 3. 12
+
+### 4. Orange
+
+### 5. 500g
