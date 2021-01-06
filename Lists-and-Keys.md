@@ -18,7 +18,7 @@ index.js
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const exampleList = ['Mohamed ', 'Togara', 'Jake', '$12,00', 'Alice'];
+const exampleList = ['Amy ', 'Togara', 'Jake', '$12,00', 'Alice'];
 const listItems = exampleList.map((exampleList)=>{
     return <li>{exampleList}</li>;
 });
@@ -32,7 +32,7 @@ ReactDOM.render(
 ## View on Screen
 
 ```
-* Mohamed
+* Amy
 * Togara
 * Jake
 * $12,00
