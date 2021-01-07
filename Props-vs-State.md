@@ -20,9 +20,9 @@ class Textbook extends React.Component {
   }
 }
 
-const myelement = <Textbook topic="React concepts in 30 seconds" />;
+const exampleElement = <Textbook topic="React concepts in 30 seconds" />;
 
-ReactDOM.render(myelement, document.getElementById('root'));
+ReactDOM.render(exampleElement, document.getElementById('root'));
 ```
 
 ## Screen View
