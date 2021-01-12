@@ -8,7 +8,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
 
-const ExampleTimeoutEffect = () => {
+function ExampleTimeoutEffect = () => {
   const [greeting, setGreeting] = useState('Hello Huminoid');
 
   useEffect(() => {
