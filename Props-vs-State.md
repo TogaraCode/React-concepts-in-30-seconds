@@ -44,7 +44,7 @@ class Textbook extends React.Component {
     super(props);
     this.state = {
       topic: "React concepts in 30 seconds",
-      volume: "1",
+      volume: 1,
       Author: "Togara Hess",
       year: 2021
     };
