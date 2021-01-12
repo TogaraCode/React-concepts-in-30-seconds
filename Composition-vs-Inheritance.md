@@ -16,7 +16,7 @@ class Playlist extends React.Component {
     return (
       <div className="playlist">
         <Artist />
-        <Genres />
+        <Album />
         <Song />
       </div>
     );
