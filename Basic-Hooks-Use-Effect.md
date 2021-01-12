@@ -22,8 +22,6 @@ const Example = () => {
   return <h1>{greeting}</h1>
 };
 
-export default App;
-
 ReactDOM.render(<Example />, document.getElementById('root'));
 
 ```
