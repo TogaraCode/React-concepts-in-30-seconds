@@ -8,7 +8,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
 
-const Example = () => {
+const ExampleTimeoutEffect = () => {
   const [greeting, setGreeting] = useState('Hello Huminoid');
 
   useEffect(() => {
@@ -22,7 +22,7 @@ const Example = () => {
   return <h1>{greeting}</h1>
 };
 
-ReactDOM.render(<Example />, document.getElementById('root'));
+ReactDOM.render(<ExampleTimeoutEffect />, document.getElementById('root'));
 
 ```
 
