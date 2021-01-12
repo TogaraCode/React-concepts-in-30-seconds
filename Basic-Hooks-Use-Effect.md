@@ -12,9 +12,6 @@ const ExampleTimeoutEffect = () => {
   const [greeting, setGreeting] = useState('Hello Huminoid');
 
   useEffect(() => {
-    console.log('activate first greeting');
-
-    setTimeout(() => {
       setGreeting("Welcome to the future");
     }, 420)
   }[]);
@@ -31,7 +28,7 @@ ReactDOM.render(<ExampleTimeoutEffect />, document.getElementById('root'));
 # Hello Humanoid
 
 ```
-after 420 seconds the screen will show
+after 420 seconds the screen will read
 ```
 
 # Welcome to the future
