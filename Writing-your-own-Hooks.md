@@ -18,7 +18,7 @@ function UserAccountStatus(props) {
   if (isPremiumMember === null) {
     return 'Upgrade to Premium Membership available!';
   }
-  return isPremiumMember ? 'PremiumMember' : 'Standard';
+  return isPremiumMember ? 'PremiumMember' : 'StandardMember';
 }
 
 ReactDOM.render(<UserAccountStatus />, document.getElementById('root'));
