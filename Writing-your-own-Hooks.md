@@ -26,4 +26,4 @@ ReactDOM.render(<UserAccountStatus />, document.getElementById('root'));
 
 ## Screen View
 
-# Upgrade to Premium Membership available!
+## Upgrade to Premium Membership available!
